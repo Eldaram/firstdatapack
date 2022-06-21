@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "useless:flint"
+            }
+        }
+    },
+    "rewards": {
+        "function": "useless:events/crafted_flint/trigger"
+    }
+}
